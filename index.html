@@ -5,14 +5,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>MoneySort</title> 
   <link rel="icon" type="image/png" href="money.png">
+<link rel="stylesheet" href="Buttonlocation.css" />
 
 </head>
 <body>
-
-<p>
-  <span id="money"></span>
-  <span id="currency"></span>
-</p>
+MoneySort 2.0 Made bz AZGDev 8/12/2025
+<div id="money-container">
+  <span id="money">0</span>
+  <span id="currency">Euros</span>
+</div>
 
 <div>
     <button id = "add1" >Add 1</button>
@@ -32,7 +33,7 @@
     <button id = "CurXch" >Change currency</button>
 </div>
 <div>
-    <a href = "expenses.html">Expenses</a>
+    <a id = "Expenses" href = "expenses.html">Expenses</a>
 </div>
 <script src="Variables.js"></script>
 <script src="buttonlisten.js"></script>

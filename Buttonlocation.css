@@ -1,0 +1,90 @@
+#add1 {
+  position: absolute;
+  top: 500px;
+  left: 800px;
+  width: 70px;
+  height: 50px;
+}
+#add10 {
+  position: absolute;
+  top: 500px;
+  left: 880px;
+  width: 70px;
+  height: 50px;
+}
+#add100 {
+  position: absolute;
+  top: 500px;
+  left: 960px;
+  width: 70px;
+  height: 50px;
+}
+#add1000 {
+  position: absolute;
+  top: 500px;
+  left: 1040px;
+  width: 70px;
+  height: 50px;
+}
+
+
+#rem1 {
+  position: absolute;
+  top: 560px;
+  left: 800px;
+  width: 70px;
+  height: 50px;
+}
+#rem10 {
+  position: absolute;
+  top: 560px;
+  left: 880px;
+  width: 70px;
+  height: 50px;
+}
+#rem100 {
+  position: absolute;
+  top: 560px;
+  left: 960px;
+  width: 70px;
+  height: 50px;
+}
+#rem1000 {
+  position: absolute;
+  top: 560px;
+  left: 1040px;
+  width: 70px;
+  height: 50px;
+}
+#CurXch {
+  position: absolute;
+  top: 620px;
+  left: 800px;
+  width: 320px;
+  height: 50px;
+}
+#money-container {
+  position: absolute;
+  top: 400px;
+  left: 950px;      /* fixed horizontal center */
+  white-space: nowrap;
+  font-size: 36px;
+  transform: translateX(-50%); /* center container on left: 950px */
+}
+
+#money {
+  font-weight: bold;
+}
+
+#currency {
+  margin-left: 8px; /* spacing */
+  font-size: 28px;
+}
+#Expenses {
+  position: absolute;
+  top: 680px;
+  left: 900px;
+ font-size: 30px;
+}
+
+
